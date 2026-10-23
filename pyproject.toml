@@ -8,4 +8,5 @@ dependencies = [
     "matplotlib>=3.11.2",
     "more-itertools>=11.2.0",
     "scikit-learn>=1.9.1",
+    "wordcloud>=1.9.6",
 ]
